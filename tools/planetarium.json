@@ -6,6 +6,11 @@ var folks = [
   "twitter": "aaronpeters"
 },
 {
+  "blog": "https://insouciant.org/",
+  "name": "Insouciant | William Chan",
+  "feed": "https://insouciant.org/feed/"
+},
+{
   "blog": "http://www.websiteoptimization.com/",
   "name": "Andrew King",
   "feed": "http://www.websiteoptimization.com/atom.xml"
